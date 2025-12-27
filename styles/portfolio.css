@@ -201,3 +201,9 @@ footer .social-links a:hover {
   width: 300px;
   margin-top: 20px;
 }
+
+footer .contact-box {
+  background: var(--seconday-color);
+  padding: 30px 120px;
+  border-radius: 10px;
+}
